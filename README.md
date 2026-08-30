@@ -1,16 +1,27 @@
 ## Hi there 👋
 
-<!--
-**haces12/haces12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Engineering student interested in
+software development, backend systems and automation.
 
-Here are some ideas to get you started:
+If there is a an idea in my head I can make it real
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I like learning something new every day. When I come across a topic I don't understand, I try to research it, practice it, and look for different ways to grasp it until I finally understand how it works.
+
+Facts:
+Academic excellence at university  
+Continuous learning  
+Curious about how things work  
+I enjoy researching and solving problems  
+Always looking to improve my skills
+
+Currently learning:
+- Python
+- SQL
+- REST APIs
+- Node.js
+- React / Angular
+- Git & GitHub
+- JavaScript
+  
+
+
