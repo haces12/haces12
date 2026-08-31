@@ -14,10 +14,7 @@ If there is a an idea in my head I can make it real
 
 I like learning something new every day. When I come across a topic I don't understand, I try to research it, practice it, and look for different ways to grasp it until I finally understand how it works.
 
-Proyects:
-Sistema-Colegio
-Tienda-Virtual
-Sistema-de-Gestion
+
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/s.haces) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Andre_Haces) 
